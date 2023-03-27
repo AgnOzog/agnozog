@@ -3,7 +3,7 @@
 <!--
 **AgnOzog/agnozog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+My name is Agnieszka Ozog, currently self-learner data analise/sciance enthusiast. Every day looking for opportunity to learn something new. 
 
 - 🔭 I’m currently working on my mastershool.com course
 - 🌱 I’m currently learning ...
